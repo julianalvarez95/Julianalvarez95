@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Wave CRM Product Evolution @ Willdom LLC](https://willdom.com/#)
 
-- 🌱 I’m currently learning **Agentic AI Systems · LLM Product Design · DevOps Culture · Infrastructure as Code · AI-assisted development**
+- 🌱 I’m currently learning **Agentic AI Systems · LLM Product Design · DevOps Culture · Infrastructure as Code · AI-assisted development · Cybersecurity**
 
 - 👯 I’m looking to collaborate on **AI Powered products**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **julianignacioalvarez95@gmail.com**
 
-- 📄 Know about my experiences [[https://julian-alvarez-os.vercel.app/](https://julian-os-95.vercel.app/)]
+- 📄 Know about my experiences [[https://julianalvarez-portfolio.vercel.app/](https://julianalvarez-portfolio.vercel.app/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
