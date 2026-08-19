@@ -1,28 +1,37 @@
-<h1 align="center">Hi 👋, I'm Julian alvarez</h1>
-<h3 align="center">Product Manager building AI-native products and experimenting with agentic systems, product automation and data-driven tools across SaaS and marketplaces.</h3>
+<h1 align="center">Hi 👋, I'm Julian Alvarez</h1>
+<h3 align="center">AI Product Manager who builds — LLM automation, GitOps infra, and the tools I use every day.</h3>
 
-<p align="left"> <a href="https://twitter.com/julialvarez_95" target="blank"><img src="https://img.shields.io/twitter/follow/julialvarez_95?logo=twitter&style=for-the-badge" alt="julialvarez_95" /></a> </p>
+- 🔭 Currently working on **Wave CRM Product Evolution @ Willdom LLC**
+- 🤖 Running 2 LLM agents in production on my own [k3s/ArgoCD homelab](https://github.com/julianalvarez95/homelab-gitops) — GitOps only, nothing touched by hand
+- 👯 Looking to collaborate on **AI-powered products**
+- 💬 Ask me about **Product Strategy · Product Discovery · Data Analytics for Product · AI in Product**
+- 📫 Reach me at **julian.alvarez.ig@gmail.com**
+- 📄 More about me: [my portfolio](https://julianalvarez-portfolio.vercel.app/)
 
-- 🔭 I’m currently working on [Wave CRM Product Evolution @ Willdom LLC](https://willdom.com/#)
+## What I'm building
 
-- 🌱 I’m currently learning **Agentic AI Systems · LLM Product Design · DevOps Culture · Infrastructure as Code · AI-assisted development · Cybersecurity**
-
-- 👯 I’m looking to collaborate on **AI Powered products**
-
-- 💬 Ask me about **Product Strategy · Product Discovery · Data Analytics for Product · SaaS Platforms · CRM Systems · AI in Product**
-
-- 📫 How to reach me **julianignacioalvarez95@gmail.com**
-
-- 📄 Know about my experiences [[https://julianalvarez-portfolio.vercel.app/](https://julianalvarez-portfolio.vercel.app/)]
+| Repo | What it proves |
+|---|---|
+| [**portfolio-personal**](https://github.com/julianalvarez95/portfolio-personal) | Next.js site with a live feed pulled straight from the homelab agent — not sample copy |
+| [**homelab-gitops**](https://github.com/julianalvarez95/homelab-gitops) | k3s + ArgoCD cluster on an old laptop, running 2 LLM agents with full observability (Phoenix, VictoriaMetrics), 100% GitOps |
+| [**claude-sessions-dashboard**](https://github.com/julianalvarez95/claude-sessions-dashboard) | Local-first analytics dashboard for Claude Code sessions — 7★, TypeScript |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/usainbot95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="julianalvarez95" height="30" width="40" /></a>
+<a href="https://twitter.com/usainbot95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usainbot95" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/julianalvarez00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julianalvarez00" height="30" width="40" /></a>
-<a href="https://instagram.com/julian.alvarezi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="julian.alvarezi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://argo-cd.readthedocs.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julianalvarez95&show_icons=true&locale=en" alt="julianalvarez95" /></p>
